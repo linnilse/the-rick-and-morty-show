@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/the-rick-and-morty-show/static/js/runtime~main.a68bcbc0.js"
   },
   {
-    "revision": "4763e11e28aa14328f11",
+    "revision": "b0354f141232ada64d34",
     "url": "/the-rick-and-morty-show/static/js/main.5086bb30.chunk.js"
   },
   {
@@ -12,11 +12,11 @@ self.__precacheManifest = [
     "url": "/the-rick-and-morty-show/static/js/2.b013b3f6.chunk.js"
   },
   {
-    "revision": "4763e11e28aa14328f11",
-    "url": "/the-rick-and-morty-show/static/css/main.082541cb.chunk.css"
+    "revision": "b0354f141232ada64d34",
+    "url": "/the-rick-and-morty-show/static/css/main.5895ed90.chunk.css"
   },
   {
-    "revision": "2fa796f080793215e8c39fd9d9f4ee6e",
+    "revision": "7e34927cf092112abf1f2cd69e05af2a",
     "url": "/the-rick-and-morty-show/index.html"
   }
 ];

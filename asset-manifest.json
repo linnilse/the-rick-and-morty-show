@@ -1,5 +1,5 @@
 {
-  "main.css": "/the-rick-and-morty-show/static/css/main.082541cb.chunk.css",
+  "main.css": "/the-rick-and-morty-show/static/css/main.5895ed90.chunk.css",
   "main.js": "/the-rick-and-morty-show/static/js/main.5086bb30.chunk.js",
   "main.js.map": "/the-rick-and-morty-show/static/js/main.5086bb30.chunk.js.map",
   "runtime~main.js": "/the-rick-and-morty-show/static/js/runtime~main.a68bcbc0.js",
@@ -7,7 +7,7 @@
   "static/js/2.b013b3f6.chunk.js": "/the-rick-and-morty-show/static/js/2.b013b3f6.chunk.js",
   "static/js/2.b013b3f6.chunk.js.map": "/the-rick-and-morty-show/static/js/2.b013b3f6.chunk.js.map",
   "index.html": "/the-rick-and-morty-show/index.html",
-  "precache-manifest.89ff1d6c171ec8c5ee6615548591ab0b.js": "/the-rick-and-morty-show/precache-manifest.89ff1d6c171ec8c5ee6615548591ab0b.js",
+  "precache-manifest.7ef26cea668af49f148708ca1fb3c3d1.js": "/the-rick-and-morty-show/precache-manifest.7ef26cea668af49f148708ca1fb3c3d1.js",
   "service-worker.js": "/the-rick-and-morty-show/service-worker.js",
-  "static/css/main.082541cb.chunk.css.map": "/the-rick-and-morty-show/static/css/main.082541cb.chunk.css.map"
+  "static/css/main.5895ed90.chunk.css.map": "/the-rick-and-morty-show/static/css/main.5895ed90.chunk.css.map"
 }
